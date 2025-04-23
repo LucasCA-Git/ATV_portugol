@@ -1,10 +1,9 @@
 # Sistema de Cadastro e Ordem de Serviço
 ### Este projeto implementa um sistema simples de cadastro de clientes, produtos e criação de ordens de serviço (OS) utilizando Portugol Studio.
 
-1. Funcionalidades
-- Cadastro de Clientes
-
-2. Permite cadastrar até 10 clientes.
+#### Funcionalidades
+2. Cadastro de Clientes
+- Permite cadastrar até 10 clientes.
 - Cada cliente recebe um código gerado automaticamente.
 - Cadastro de Produtos
 
