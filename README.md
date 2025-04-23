@@ -2,12 +2,12 @@
 ### Este projeto implementa um sistema simples de cadastro de clientes, produtos e criação de ordens de serviço (OS) utilizando Portugol Studio.
 
 #### Funcionalidades
-2. Cadastro de Clientes
+1. Cadastro de Clientes
 - Permite cadastrar até 10 clientes.
 - Cada cliente recebe um código gerado automaticamente.
 - Cadastro de Produtos
 
-3. Permite cadastrar até 10 produtos.
+2. Permite cadastrar até 10 produtos.
 - Cada produto recebe um código gerado automaticamente.
 - É possível definir o preço de cada produto.
 - Criação de Ordens de Serviço (OS)
@@ -24,6 +24,9 @@
 
 5. Menu Interativo
 - Navegação por opções numéricas para acessar as funcionalidades.
+
+-------
+
 # fluxograma
 - Um nó inicial "Início"
 - Conexão para "Exibir Menu"
